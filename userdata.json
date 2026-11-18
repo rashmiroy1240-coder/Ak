@@ -1,6 +1,6 @@
 {
   "dialogConfig": {
-    "enabled":  false,
+    "enabled":  true,
     "version": "1.0",
     "mandatory": false,
     "update_url": "https://t.me/akmods9",
