@@ -2,7 +2,7 @@
   "dialogConfig": {
     "enabled": false,
     "version": "1.0",
-    "mandatory": false,
+    "mandatory": true,
     "update_url": "https://t.me/akmods9",
     "title": "Update Available!",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
