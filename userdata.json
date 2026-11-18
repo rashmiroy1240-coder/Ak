@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "1.0",
+    "version": "6.2",
     "mandatory": false,
     "update_url": "https://t.me/akmods9_ar",
     "title": "Update Availablr!",
