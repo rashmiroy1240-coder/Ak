@@ -3,8 +3,8 @@
     "enabled": true,
     "version": "1.0",
     "mandatory": false,
-    "update_url": "https://t.me/akmods9_ar",
-    "title": "Update Availablr!",
+    "update_url": "https://t.me/akmods9",
+    "title": "Update Available!",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
     "socialLinks": [
       {
@@ -22,10 +22,7 @@
       {
         "name": "linkedin",
         "url": "https://t.me/akmods9_ar"
-      },
-      {
-        "name": "telegram" ,
-        "url": "https://t.me/akmods9"
+      }
     ]
   }
 }
